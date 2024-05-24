@@ -1,5 +1,8 @@
+using Microsoft.EntityFrameworkCore;
+
 using ChatAPI.Hubs;
 using ChatAPI.DataService;
+using ChatAPI.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +14,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<SharedDB>();
+
+//This section below is for connection string 
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<SampleDBContext>(options => options.UseSqlServer(connectionString));
+
 
 builder.Services.AddCors(opt =>
 {

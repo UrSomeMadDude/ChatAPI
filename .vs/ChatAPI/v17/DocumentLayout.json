@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "E:\\Learning\\VS\\ChatAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07D94881-CC02-4C55-8911-0718BB5D5874}|ChatAPI.csproj|e:\\learning\\vs\\chatapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D94881-CC02-4C55-8911-0718BB5D5874}|ChatAPI.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Learning\\VS\\ChatAPI\\Migrations\\20240524215646_MyFirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240524215646_MyFirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Learning\\VS\\ChatAPI\\Migrations\\20240524215345_MyFirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240524215345_MyFirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07D94881-CC02-4C55-8911-0718BB5D5874}|ChatAPI.csproj|e:\\learning\\vs\\chatapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D94881-CC02-4C55-8911-0718BB5D5874}|ChatAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D94881-CC02-4C55-8911-0718BB5D5874}|ChatAPI.csproj|e:\\learning\\vs\\chatapi\\models\\sampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D94881-CC02-4C55-8911-0718BB5D5874}|ChatAPI.csproj|solutionrelative:models\\sampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D94881-CC02-4C55-8911-0718BB5D5874}|ChatAPI.csproj|e:\\learning\\vs\\chatapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D94881-CC02-4C55-8911-0718BB5D5874}|ChatAPI.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D94881-CC02-4C55-8911-0718BB5D5874}|ChatAPI.csproj|e:\\learning\\vs\\chatapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07D94881-CC02-4C55-8911-0718BB5D5874}|ChatAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07D94881-CC02-4C55-8911-0718BB5D5874}|ChatAPI.csproj|e:\\learning\\vs\\chatapi\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,8 +53,90 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\Learning\\VS\\ChatAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\Learning\\VS\\ChatAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:57:24.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240524215646_MyFirstMigration.cs",
+              "DocumentMoniker": "E:\\Learning\\VS\\ChatAPI\\Migrations\\20240524215646_MyFirstMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240524215646_MyFirstMigration.cs",
+              "ToolTip": "E:\\Learning\\VS\\ChatAPI\\Migrations\\20240524215646_MyFirstMigration.cs",
+              "RelativeToolTip": "Migrations\\20240524215646_MyFirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:56:46.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240524215345_MyFirstMigration.cs",
+              "DocumentMoniker": "E:\\Learning\\VS\\ChatAPI\\Migrations\\20240524215345_MyFirstMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240524215345_MyFirstMigration.cs",
+              "ToolTip": "E:\\Learning\\VS\\ChatAPI\\Migrations\\20240524215345_MyFirstMigration.cs",
+              "RelativeToolTip": "Migrations\\20240524215345_MyFirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:53:46.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SampleDBContext.cs",
+              "DocumentMoniker": "E:\\Learning\\VS\\ChatAPI\\Models\\SampleDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\SampleDBContext.cs",
+              "ToolTip": "E:\\Learning\\VS\\ChatAPI\\Models\\SampleDBContext.cs",
+              "RelativeToolTip": "Models\\SampleDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:49:17.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Learning\\VS\\ChatAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "E:\\Learning\\VS\\ChatAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:48:17.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Learning\\VS\\ChatAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Learning\\VS\\ChatAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T21:36:07.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SharedDB.cs",
               "DocumentMoniker": "E:\\Learning\\VS\\ChatAPI\\DataService\\SharedDB.cs",
               "RelativeDocumentMoniker": "DataService\\SharedDB.cs",
@@ -38,25 +144,24 @@
               "RelativeToolTip": "DataService\\SharedDB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T20:00:02.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T20:00:02.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Learning\\VS\\ChatAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Learning\\VS\\ChatAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T17:13:00.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "E:\\Learning\\VS\\ChatAPI\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
@@ -64,12 +169,11 @@
               "RelativeToolTip": "Hubs\\ChatHub.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T17:01:01.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T17:01:01.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "UserConnection.cs",
               "DocumentMoniker": "E:\\Learning\\VS\\ChatAPI\\Models\\UserConnection.cs",
               "RelativeDocumentMoniker": "Models\\UserConnection.cs",
@@ -77,8 +181,7 @@
               "RelativeToolTip": "Models\\UserConnection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:58:32.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T16:58:32.066Z"
             }
           ]
         }
